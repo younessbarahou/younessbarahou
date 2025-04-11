@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently Mastering ReactJS<br>🎯 Goals: To Build more than 10 Useful Applications. <br>🎲 Fun fact: I love chess</p>
+<p align="left">📚 I'm currently Mastering ReactJS And Laravel<br>🎯 Goals: To Build more than 10 Useful Applications. <br>🎲 Fun fact: I love chess</p>
 
 ###
 
@@ -28,8 +28,6 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="premierepro logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
