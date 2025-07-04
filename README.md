@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Youness and I'm a Web Developer from Morocco</p>
+<p align="left">My name is Youness and I'm a Backend Developer from Morocco</p>
 
 ###
 
@@ -10,11 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently Mastering ReactJS And Laravel<br>🎯 Goals: To Build more than 10 Useful Applications. <br>🎲 Fun fact: I love chess</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">I Work with</h2>
 
 ###
 
