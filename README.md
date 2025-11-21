@@ -23,5 +23,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
-
+![younessbarahou's Stats](https://github-readme-stats.vercel.app/api?username=younessbarahou&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ###
