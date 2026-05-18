@@ -7,19 +7,15 @@
 <div align="left">
   <h3> I Use => </h3>
   <br>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYrNVwxlBhUzwBd6H4YqdJckckasr4N6PjQw&s" height="60" alt="NodeJs logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png" height="60" alt="Laravel logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="12" />
-  <img src="https://www.clipartmax.com/png/middle/249-2494952_penguin-clipart-profile-linux-logo-vector.png" height="60" alt="Linux logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="60" alt="C logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" height="60" alt="TailwindCss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://altnix.com/_next/static/media/mySQL.d519545a.png" height="60" alt="Mysql logo"  />
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" alt="Postgres logo"  />
+  <img width="12" />
+  <img src="https://www.clipartmax.com/png/middle/249-2494952_penguin-clipart-profile-linux-logo-vector.png" height="60" alt="Linux logo"  />
 </div>
 
 <br>
