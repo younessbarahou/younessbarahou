@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" alt="Postgres logo"  />
   <img width="12" />
-  <img src="https://www.clipartmax.com/png/middle/249-2494952_penguin-clipart-profile-linux-logo-vector.png" height="60" alt="Linux logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="60" alt="Linux logo"  />
 </div>
 
 <br>
